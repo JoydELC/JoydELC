@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoydELC
 - 👀 I’m interested in robotics, machine learning and programming languages.
 - 🌱 I’m currently learning machine learning.
-- 💞️ I’m looking to collaborate on any research work related to computational vision.
+- 💞️ I’m looking to collaborate on any research work related to web devolopment.
 - 📫 How to reach me joyd.lasprilla@gmail.com
 
 <!---
